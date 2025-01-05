@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:qiita_search/models/article.dart';
+import '/models/article.dart';
 
 class ArticleContainer extends StatelessWidget {
   const ArticleContainer({

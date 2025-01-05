@@ -1,4 +1,4 @@
-import 'package:qiita_search/models/user.dart';
+import '/models/user.dart';
 
 class Article {
   // コンストラクタ
